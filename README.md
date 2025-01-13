@@ -20,12 +20,12 @@
 
 ### 🌐 [E-commerce]
 (https://github.com/LuizEduardoGalvao/LuizEduardoGalvao.github.io)
-> site de uma loja online de roupas.  
+> site de uma loja online de roupas.
 **Tecnologias:** HTML, CSS. JAVASCRIPT, C#
 
 ### 🧪 [Teste De Clientes CRUD]
 (https://github.com/LuizEduardoGalvao/TesteClientes)
-> Crud basico em clientes
+> Crud basico em clientes. 
 **Tecnologias:** PHP, CSS 
 
 ---
